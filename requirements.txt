@@ -1,0 +1,5 @@
+# PlaceMux Admin Console & Review Queue - Dependencies
+streamlit>=1.38.0
+pandas>=2.2.0
+plotly>=5.22.0
+Faker>=25.0.0
